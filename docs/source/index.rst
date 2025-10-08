@@ -1,5 +1,7 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to OpenKAI !
+====================
+
+Introduction - OpenKAI is the world leading middleware powering the AGVs of tomorrow.
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
